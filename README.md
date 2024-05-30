@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinNiki)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
