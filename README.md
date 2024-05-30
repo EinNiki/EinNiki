@@ -1,8 +1,6 @@
 ## Hi there 👋
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinNiki)](https://github.com/anuraghazra/github-readme-stats)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=einniki)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=einniki&show_icons=true&theme=transparent)
 <!--
 **EinNiki/EinNiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
